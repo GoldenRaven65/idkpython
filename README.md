@@ -1,2 +1,1 @@
-# idkpython
-i just started trying to learn python
+how does this work lmao
